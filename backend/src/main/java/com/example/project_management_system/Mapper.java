@@ -6,12 +6,12 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Mapper {
-    /*
+/*
     public Ticket toTicket(TicketRequestDTO dto) {
 
     }
 
-     */
+*/
 
     public TicketResponseDTO toTicketResponse(Ticket t) {
 
